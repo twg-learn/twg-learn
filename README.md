@@ -1,5 +1,5 @@
 
-## Hi, I'm Tommy! 👋
+## Hi, I'm T-Dawg! 👋
 
 ### About me
 I'm fairly new to software development. I began my tech-related educational journey back in 2020 when a prevailing public health crisis forced me to begin considering a different career choice, sometime in the near future. Without being in a degree program and being entirely self taught, it took me a while to accumlate enough knowledge to clearly see a path forward, but I am now confident enough to continue my learning in a more formal and social format.
